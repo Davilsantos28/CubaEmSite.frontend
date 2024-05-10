@@ -1,0 +1,36 @@
+*{
+    margin: 0 0 0 0;
+    text-align: center;
+}
+
+nav div img{
+    width: 100%;
+}
+
+nav li {
+    text-align: center;
+    display: inline-block ;
+    text-decoration:none;
+    padding: 20px;
+    color: black;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+#linha-horizontal {
+    width: 100%;
+    border: 1px solid #AFABA6;
+}
+
+p{
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
